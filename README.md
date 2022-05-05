@@ -1,9 +1,9 @@
-### Eaii, eu sou o Arthur Farias
+### Hi there✌ sou o Arthur Farias
 
 
 - 🔭 Hoje eu apenas estudo
 - 🌱 Estudando Javascript
-- ⚡ Eu tenho paladar infatil 😂😂
+- ⚡ In(felizmente) tenho paladar infatil 😂😂
 
 <div align="center">
   <a href="https://github.com/ArthFarias">
