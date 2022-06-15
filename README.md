@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje eu apenas estudo
-- 🌱 Estudando Javascript
+- 🌱 Estudando Javascript / React
 - ⚡ In(felizmente) tenho paladar infatil 😂😂
 
 <div align="center">
