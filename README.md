@@ -1,8 +1,8 @@
 ### Hi there✌ sou o Arthur Farias
 
 
-- 🔭 Hoje eu apenas estudo
-- 🌱 Estudando Typescript / SQL
+- 🔭 Atualmente estudo programação e trabalho (em outra área)
+- 🌱 Estudando React 
 - ⚡ In(felizmente) tenho paladar infatil 😂😂
 
 <div align="center">
