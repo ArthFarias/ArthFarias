@@ -1,7 +1,7 @@
 ### Hi there✌ sou o Arthur Farias
 
 
-- 🔭 Atualmente estudo programação e trabalho (em outra área)
+- 🔭 Atualmente estudo programação e sou estagiário de TI
 - 🌱 Estudando React 
 - ⚡ In(felizmente) tenho paladar infatil 😂😂
 
